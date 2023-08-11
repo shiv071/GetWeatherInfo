@@ -21,11 +21,11 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-}
-
+}  
+   
 .row {
     margin: 0;
-}
+} 
 
 .main-menu {
     background-color: var(--main-bg);
@@ -112,7 +112,7 @@ body {
     justify-content: center;
     align-items: flex-start;
 }
-
+ 
 footer {
     width: 100%;
     background-color: var(--maincolor);
